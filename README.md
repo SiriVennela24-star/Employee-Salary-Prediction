@@ -88,3 +88,6 @@ Add data visualization panels
 Save prediction history
 <br>
 Deploy on cloud (e.g., Streamlit Cloud, Heroku, or AWS)
+<br>
+<br>
+you can check the web Application through this link : "https://3371a8fe9d85.ngrok-free.app" 
